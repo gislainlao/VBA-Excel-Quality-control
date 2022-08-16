@@ -1,5 +1,5 @@
 ### VBA-Excel-Quality-control
-Implementation of a quality control management application for teachers (taking into account several parameters such as: arrival and departure times, relationship with students, compliance with the program, the proportion of students having validated the module module at the end), management of course programming and planning of the program of the week (in pdf file)
+Implementation of a quality control management application for teachers , in excel Vba(taking into account several parameters such as: arrival and departure times, relationship with students, compliance with the program, the proportion of students having validated the module module at the end), management of course programming and planning of the program of the week (in pdf file)
 
 ## To start
 - open excel file
